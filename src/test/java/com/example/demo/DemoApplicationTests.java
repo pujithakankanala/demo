@@ -9,6 +9,5 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-	private age : Int;
 
 }
